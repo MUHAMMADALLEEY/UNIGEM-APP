@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059421041215",
+    "project_id": "unigem-e007a",
+    "storage_bucket": "unigem-e007a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059421041215:android:41bceccbb43eb93041be8a",
+        "android_client_info": {
+          "package_name": "com.unigem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_rZY_YAt_n1BxoNHj_EjC_bAEmjKSbJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
